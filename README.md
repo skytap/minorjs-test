@@ -17,6 +17,11 @@ npm install minorjs-test
 * Uses jQuery-style selectors to access data in the DOM.
 * Build your tests with standard tools like Mocha and Should.
 
+# MinorJS web framework
+
+MinorJS Test is purpose-built to test [MinorJS web applications](https://github.com/skytap/minorjs).
+MinorJS is a clustered web framework for Node.js that favors convention over configuration.
+
 # CoffeeScript-friendly
 
 While MinorJS Test is written in Javascript, the testing framework happily works with CoffeeScript.
