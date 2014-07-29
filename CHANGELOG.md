@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.0, July 29th, 2014
+
+* Added the ability to specify the mock request body (rdevaissiere). This is useful for ensuring the request body contains the correct data.
+
 ## Version 0.2.0, July 16th, 2014
 
 * Make sure the framework can load both .js and .coffee test suite files.
