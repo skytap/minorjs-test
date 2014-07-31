@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.1, July 31st, 2014
+
+* Updated nock, glob and mocha dependencies.
+
 ## Version 0.3.0, July 29th, 2014
 
 * Added the ability to specify the mock request body (rdevaissiere). This is useful for ensuring the request body contains the correct data.
