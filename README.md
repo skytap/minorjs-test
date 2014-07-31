@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/skytap/minorjs.svg?branch=master)](https://travis-ci.org/skytap/minorjs)
-
 Functional testing framework for the [MinorJS web framework](https://github.com/skytap/minorjs).
 
 # Installation
