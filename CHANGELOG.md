@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.2, August 6th, 2014
+
+* Avoid redundant binding of uncaughtException.
+
 ## Version 0.3.1, July 31st, 2014
 
 * Updated nock, glob and mocha dependencies.
