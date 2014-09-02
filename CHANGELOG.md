@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.3, September 2nd, 2014
+
+* Use extend module so we get a copy of the fixture file.
+
 ## Version 0.3.2, August 6th, 2014
 
 * Avoid redundant binding of uncaughtException.
