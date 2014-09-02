@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.4, September 2nd, 2014
+
+* Make the deep copy of a fixture file work with arrays.
+
 ## Version 0.3.3, September 2nd, 2014
 
 * Use extend module so we get a copy of the fixture file.
