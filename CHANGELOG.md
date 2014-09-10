@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.5, September 10th, 2014
+
+* Switched from disconnect to kill to stop test runner workers.
+
 ## Version 0.3.4, September 2nd, 2014
 
 * Make the deep copy of a fixture file work with arrays.
