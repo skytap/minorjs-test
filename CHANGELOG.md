@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.6, September 26th, 2014
+
+* Allocating an open port for a web socket connection.
+
 ## Version 0.3.5, September 10th, 2014
 
 * Switched from disconnect to kill to stop test runner workers.
