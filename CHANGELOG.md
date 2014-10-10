@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.7, October 10th, 2014
+
+* Updated zombie and underscore dependencies.
+
 ## Version 0.3.6, September 26th, 2014
 
 * Allocating an open port for a web socket connection.
