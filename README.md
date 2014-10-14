@@ -1,3 +1,5 @@
+[![NPM version](https://badge.fury.io/js/minorjs-test.svg)](http://badge.fury.io/js/minorjs-test)
+
 Functional testing framework for the [MinorJS web framework](https://github.com/skytap/minorjs).
 
 # Installation
