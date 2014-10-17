@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.8, October 17th, 2014
+
+* Made the max memory, max tests, slow test and test timeout values configurable at runtime.
+
 ## Version 0.3.7, October 10th, 2014
 
 * Updated zombie and underscore dependencies.
