@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.9, November 12th, 2014
+
+* Provide the server with the test runner cluster ID.
+
 ## Version 0.3.8, October 17th, 2014
 
 * Made the max memory, max tests, slow test and test timeout values configurable at runtime.
