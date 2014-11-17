@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.3.10, November 17th, 2014
+
+* Allow the server to send messages to the runner.
+
 ## Version 0.3.9, November 12th, 2014
 
 * Provide the server with the test runner cluster ID.
