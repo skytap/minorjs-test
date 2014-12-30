@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.4.0, December 30th, 2014
+
+* Updated module dependencies.
+
 ## Version 0.3.10, November 17th, 2014
 
 * Allow the server to send messages to the runner.
