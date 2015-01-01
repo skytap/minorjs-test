@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 0.4.1, January 1st, 2015
+
+* Added support for running a single test file or a directory of tests.
+
 ## Version 0.4.0, December 30th, 2014
 
 * Updated module dependencies.
