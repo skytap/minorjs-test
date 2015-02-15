@@ -1,5 +1,10 @@
 # MinorJS Test Changelog
 
+## Version 0.5.0, February 15th, 2015
+
+* Upgraded to zombie version 3.
+* Always save the entire document when calling the save method.
+
 ## Version 0.4.1, January 1st, 2015
 
 * Added support for running a single test file or a directory of tests.
