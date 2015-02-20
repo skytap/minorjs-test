@@ -1,5 +1,10 @@
 # MinorJS Test Changelog
 
+## Version 1.0.0, February 19th, 2015
+
+* Stopped using zero based versioning for the project.
+* Switched from Q to bluebird promises. bluebird implements Promises/A+.
+
 ## Version 0.5.0, February 15th, 2015
 
 * Upgraded to zombie version 3.
