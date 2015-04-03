@@ -44,14 +44,14 @@
   },
   "homepage": "https://github.com/skytap/minorjs-test",
   "dependencies": {
-    "zombie": "~3.0.3-0",
-    "nock": "~0.52.4",
-    "bluebird": "~2.9.12",
+    "zombie": "~3.1.1",
+    "nock": "~1.4.0",
+    "bluebird": "~2.9.24",
     "extend": "~2.0.0",
-    "portfinder": "~0.3.0",
-    "coffee-script": "~1.8.0",
-    "underscore": "~1.7.0",
-    "glob": "~4.3.2",
-    "mocha": "~2.1.0"
+    "portfinder": "~0.4.0",
+    "coffee-script": "~1.9.1",
+    "underscore": "~1.8.3",
+    "glob": "~5.0.3",
+    "mocha": "~2.2.1"
   }
 }
