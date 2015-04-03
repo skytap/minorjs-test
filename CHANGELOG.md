@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 1.2.1, April 3rd, 2015
+
+* Fixed a bug with mocking introduced from upgrading nock.
+
 ## Version 1.2.0, April 3rd, 2015
 
 * Updated node module dependencies.
