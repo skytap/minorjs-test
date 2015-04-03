@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 1.2.0, April 3rd, 2015
+
+* Updated node module dependencies.
+
 ## Version 1.1.0, February 25th, 2015
 
 * Added support for running tests with no colors by specifying the TEST_COLORS=0 environment variable.
