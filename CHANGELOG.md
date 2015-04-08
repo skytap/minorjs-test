@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 1.2.2, April 8th, 2015
+
+* Just use the hostname when configuring allowed connections through nock.
+
 ## Version 1.2.1, April 3rd, 2015
 
 * Fixed a bug with mocking introduced from upgrading nock.
