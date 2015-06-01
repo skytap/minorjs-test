@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 1.3.0, June 1st, 2015
+
+* Updated nock version to 2.3.0.
+
 ## Version 1.2.2, April 8th, 2015
 
 * Just use the hostname when configuring allowed connections through nock.
