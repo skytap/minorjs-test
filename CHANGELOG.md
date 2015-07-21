@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 1.6.0, July 21st, 2015
+
+* Fixing number of requested ports to default to zero.
+
 ## Version 1.5.0, July 21st, 2015
 
 * Added configurable number of ports for server instance.
