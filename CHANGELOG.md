@@ -1,5 +1,10 @@
 # MinorJS Test Changelog
 
+## Version 1.5.0, July 21st, 2015
+
+* Added configurable number of ports for server instance.
+* Potentially breaking change: functional.js now exposes requestedPorts array instead of webSocketPort variable.
+
 ## Version 1.4.0, June 1st, 2015
 
 * Downgrade nock to version 1.9.0.
