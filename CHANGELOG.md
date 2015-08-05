@@ -1,5 +1,10 @@
 # MinorJS Test Changelog
 
+## Version 2.0.0, August 5th, 2015
+
+* Added support for running tests with cucumber and feature files.
+* Refactored the mocha test running code to be more modular.
+
 ## Version 1.6.0, July 21st, 2015
 
 * Fixing number of requested ports to default to zero.
