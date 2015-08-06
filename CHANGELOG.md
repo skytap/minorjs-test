@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 2.0.1, August 6th, 2015
+
+* Fixed a bug with console colors.
+
 ## Version 2.0.0, August 5th, 2015
 
 * Added support for running tests with cucumber and feature files.
