@@ -1,5 +1,10 @@
 # MinorJS Test Changelog
 
+## Version 2.1.0, September 28th, 2015
+
+* Return mocked headers when fixture is passed as string.
+* Pretty formatting for cucumber test dots.
+
 ## Version 2.0.1, August 6th, 2015
 
 * Fixed a bug with console colors.
