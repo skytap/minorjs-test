@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 2.2.2, October 12th, 2015
+
+* Fix for API change introduced in cucumber 0.6.0.
+
 ## Version 2.2.1, October 12th, 2015
 
 * Fix for API change introduced in cucumber 0.5.3.
