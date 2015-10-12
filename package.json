@@ -1,7 +1,7 @@
 {
   "copyright": "Copyright 2014 Skytap Inc. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at     http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.",
   "name": "minorjs-test",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Functional testing framework for the MinorJS web framework.",
   "author": {
     "name": "Skytap",
@@ -45,14 +45,14 @@
   "homepage": "https://github.com/skytap/minorjs-test",
   "dependencies": {
     "zombie": "~3.1.1",
-    "nock": "~1.9.0",
-    "bluebird": "~2.9.24",
-    "extend": "~2.0.0",
+    "nock": "~2.15.0",
+    "bluebird": "~2.10.2",
+    "extend": "~3.0.0",
     "portfinder": "~0.4.0",
-    "coffee-script": "~1.9.1",
+    "coffee-script": "~1.10.0",
     "underscore": "~1.8.3",
-    "glob": "~5.0.3",
-    "mocha": "~2.2.1",
-    "cucumber": "~0.5.1"
+    "glob": "~5.0.15",
+    "mocha": "~2.3.3",
+    "cucumber": "~0.7.0"
   }
 }

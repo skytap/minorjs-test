@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 2.2.0, October 12th, 2015
+
+* Upgraded module dependencies.
+
 ## Version 2.1.0, September 28th, 2015
 
 * Return mocked headers when fixture is passed as string.
