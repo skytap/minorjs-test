@@ -1,6 +1,10 @@
 # MinorJS Test Changelog
 
-## Version 3.0.0-beta, October 2nd, 2015
+## Version 3.0.0-beta.1, October 22nd, 2015
+
+* Fire the event indicating the suite is done before we kill the worker.
+
+## Version 3.0.0-beta, October 22nd, 2015
 
 * Upgraded to zombie version 4.
 
