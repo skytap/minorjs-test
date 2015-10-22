@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 3.0.0-beta, October 2nd, 2015
+
+* Upgraded to zombie version 4.
+
 ## Version 2.2.3, October 13th, 2015
 
 * Fixed a bug introduced from upgrading cucumber.
