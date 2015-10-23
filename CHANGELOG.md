@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 3.0.0, October 23rd, 2015
+
+* Work around zombie bug with the body of DELETE requests.
+
 ## Version 3.0.0-beta.1, October 22nd, 2015
 
 * Fire the event indicating the suite is done before we kill the worker.
