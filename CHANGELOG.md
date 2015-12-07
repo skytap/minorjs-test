@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 3.1.0, December 7th, 2015
+
+* Updated module dependencies.
+
 ## Version 3.0.0, October 23rd, 2015
 
 * Work around zombie bug with the body of DELETE requests.
