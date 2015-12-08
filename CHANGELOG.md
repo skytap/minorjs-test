@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 3.2.0, December 8th, 2015
+
+* Downgraded cucumber module to 0.7.0.
+
 ## Version 3.1.0, December 7th, 2015
 
 * Updated module dependencies.
