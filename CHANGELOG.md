@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 3.4.0, January 1st, 2016
+
+* Upgraded to cucumber version 0.9.
+
 ## Version 3.3.0, December 30th, 2015
 
 * Upgraded to cucumber version 0.8.0.
