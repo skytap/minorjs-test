@@ -2,7 +2,7 @@
 
 ## Version 3.5.0, January 2nd, 2016
 
-* Downgraded bluebird to version 2.10.
+* Downgraded bluebird to version 2.10
 
 ## Version 3.4.0, January 1st, 2016
 
