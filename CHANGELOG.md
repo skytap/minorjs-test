@@ -1,5 +1,10 @@
 # MinorJS Test Changelog
 
+## Version 3.5.1, March 6th, 2016
+
+* fix: listen for both exit and disconnect events to fix an intermittent test hang
+* chore: fixed changelog file
+
 ## Version 3.5.0, January 2nd, 2016
 
 * Downgraded bluebird to version 2.10
