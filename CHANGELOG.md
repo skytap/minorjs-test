@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 3.6.2, June 21st, 2016
+
+* chore: downgraded to cucumber 0.9.2
+
 ## Version 3.6.1, June 21st, 2016
 
 * chore: updated module dependencies
