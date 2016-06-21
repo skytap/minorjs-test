@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 3.6.1, June 21st, 2016
+
+* chore: updated module dependencies
+
 ## Version 3.6.0, May 6th, 2016
 
 * simulate onunload for tests
