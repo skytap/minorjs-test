@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 3.6.3, June 21st, 2016
+
+* fix: pin cucumber exactly to 0.9.2
+
 ## Version 3.6.2, June 21st, 2016
 
 * chore: downgraded to cucumber 0.9.2
