@@ -1,5 +1,10 @@
 # MinorJS Test Changelog
 
+## Version 3.7.0, October 14th, 2016
+
+* feature: require babel library to support ES6+
+* feature: report step details on cucumber test failure
+
 ## Version 3.6.3, June 21st, 2016
 
 * fix: pin cucumber exactly to 0.9.2
