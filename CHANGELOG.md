@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 4.0.0, November 18th, 2016
+
+* breaking: downgraded nock library to version 3.4
+
 ## Version 3.7.0, October 14th, 2016
 
 * feature: require babel library to support ES6+
