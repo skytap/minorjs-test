@@ -45,7 +45,7 @@
   "homepage": "https://github.com/skytap/minorjs-test",
   "dependencies": {
     "zombie": "~4.2.1",
-    "nock": "~8.0.0",
+    "nock": "~3.4.0",
     "bluebird": "~2.10.2",
     "extend": "~3.0.0",
     "portfinder": "~1.0.3",
