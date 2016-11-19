@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 5.0.0, November 19th, 2016
+
+* breaking: bump zombie dependency to 4.3.0. node.js v4 or newer now required
+
 ## Version 4.0.0, November 18th, 2016
 
 * breaking: downgraded nock library to version 3.4
