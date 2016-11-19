@@ -32,7 +32,7 @@
   },
   "main": "./index.js",
   "engines": {
-    "node": ">=0.10"
+    "node": ">=4.0.0"
   },
   "license": {
     "type": "Apache v2",
@@ -44,7 +44,7 @@
   },
   "homepage": "https://github.com/skytap/minorjs-test",
   "dependencies": {
-    "zombie": "~4.2.1",
+    "zombie": "~4.3.0",
     "nock": "~3.4.0",
     "bluebird": "~2.10.2",
     "extend": "~3.0.0",
