@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 5.1.0, January 5th, 2017
+
+* feature: add cucumber 'background' support
+
 ## Version 5.0.0, November 19th, 2016
 
 * breaking: bump zombie dependency to 4.3.0. node.js v4 or newer now required
