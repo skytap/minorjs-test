@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 6.0.0, January 13th, 2017
+
+* breaking: upgrade zombie to version 5.0.5
+
 ## Version 5.1.0, January 5th, 2017
 
 * feature: add cucumber 'background' support
