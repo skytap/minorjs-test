@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 6.1.0, February 8th, 2017
+
+* feature: Added babel-polyfill as a dependency for use in fork_worker.js
+
 ## Version 6.0.0, January 13th, 2017
 
 * breaking: upgrade zombie to version 5.0.5
