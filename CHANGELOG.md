@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 6.2.0, April 6th, 2017
+
+* feature: Add ability to accept batch parameters for tests
+
 ## Version 6.1.0, February 8th, 2017
 
 * feature: Added babel-polyfill as a dependency for use in fork_worker.js
