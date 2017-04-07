@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 6.3.0, April 7th, 2017
+
+* feature: Add ability to generate junit xml files for jenkins
+
 ## Version 6.2.0, April 6th, 2017
 
 * feature: Add ability to accept batch parameters for tests
