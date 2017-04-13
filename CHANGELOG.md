@@ -1,5 +1,10 @@
 # MinorJS Test Changelog
 
+## Version 6.3.1, April 12th, 2017
+
+* fix: improve junit file writing to use writeFileSync
+* fix: handle creating json report for empty feature files
+
 ## Version 6.3.0, April 7th, 2017
 
 * feature: Add ability to generate junit xml files for jenkins
