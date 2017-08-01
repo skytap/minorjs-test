@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 6.4.0, August 1st, 2017
+
+* feature: add ability to remove mocks
+
 ## Version 6.3.1, April 12th, 2017
 
 * fix: improve junit file writing to use writeFileSync
