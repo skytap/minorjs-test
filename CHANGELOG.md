@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 6.5.0, May 2nd, 2018
+
+* feature: Support for manual and nozombie tags
+
 ## Version 6.4.0, August 1st, 2017
 
 * feature: add ability to remove mocks
