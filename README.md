@@ -16,6 +16,7 @@ npm install minorjs-test
 * Automatically starts and shuts down your HTTP server.
 * Uses jQuery-style selectors to access data in the DOM.
 * Build your tests with standard tools like Mocha and Should.
+* Baked in support for `@manual` and `@nozombie` tags in Cucumber tests.
 
 # MinorJS web framework
 
