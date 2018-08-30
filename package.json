@@ -54,8 +54,8 @@
     "extend": "~3.0.0",
     "fs-extra": "^2.1.2",
     "glob": "~7.0.5",
-    "mocha": "~2.5.3",
-    "nock": "~3.4.0",
+    "mocha": "~5.2.0",
+    "nock": "~9.6.1",
     "portfinder": "~1.0.3",
     "underscore": "~1.8.3",
     "zombie": "~5.0.5"
