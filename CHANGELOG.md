@@ -1,5 +1,10 @@
 # MinorJS Test Changelog
 
+## Version 7.0.0, August 30th, 2018
+
+* feature: upgrade mocha and nock packages
+* 6.5.0
+
 ## Version 6.5.0, May 2nd, 2018
 
 * feature: Support for manual and nozombie tags
