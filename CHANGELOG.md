@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 7.0.2, August 31st, 2018
+
+* chore: upgrade cucumber package to version 0.9.3
+
 ## Version 7.0.1, August 31st, 2018
 
 * chore: update babel-register to version ~6.26.0
