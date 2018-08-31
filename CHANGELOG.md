@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 7.0.1, August 31st, 2018
+
+* chore: update babel-register to version ~6.26.0
+
 ## Version 7.0.0, August 30th, 2018
 
 * feature: upgrade mocha and nock packages
