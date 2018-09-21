@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 8.0.0, September 20th, 2018
+
+* breaking: upgraded zombie.js to version 6.1.3
+
 ## Version 7.0.2, August 31st, 2018
 
 * chore: upgrade cucumber package to version 0.9.3
