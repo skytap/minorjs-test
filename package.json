@@ -58,6 +58,6 @@
     "nock": "~9.6.1",
     "portfinder": "~1.0.3",
     "underscore": "~1.8.3",
-    "zombie": "~5.0.5"
+    "zombie": "~6.1.3"
   }
 }
