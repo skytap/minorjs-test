@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 8.0.1, March 15th, 2019
+
+* fix: catch unhandled rejections and exit with error code
+
 ## Version 8.0.0, September 20th, 2018
 
 * breaking: upgraded zombie.js to version 6.1.3
