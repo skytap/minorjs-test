@@ -1,5 +1,11 @@
 # MinorJS Test Changelog
 
+## Version 8.0.2, March 26th, 2019
+
+* bump nodejs dependency to >= v6.4.0
+* fix: prevent new test runs when server is shutting down
+* fix: improve server shutdown behavior
+
 ## Version 8.0.1, March 15th, 2019
 
 * fix: catch unhandled rejections and exit with error code
