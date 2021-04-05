@@ -1,5 +1,10 @@
 # MinorJS Test Changelog
 
+## Version 10.0.0, April 5th, 2021
+
+* breaking: bump nodejs dependency to >= v10
+* chore: upgrade nock to v13.0.11
+
 ## Version 8.0.2, March 26th, 2019
 
 * bump nodejs dependency to >= v6.4.0
