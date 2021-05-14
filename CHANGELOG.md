@@ -1,5 +1,9 @@
 # MinorJS Test Changelog
 
+## Version 10.0.1, May 14th, 2021
+
+* chore: upgrade underscore to ~1.12.1
+
 ## Version 10.0.0, April 5th, 2021
 
 * breaking: bump nodejs dependency to >= v10
