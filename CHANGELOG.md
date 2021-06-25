@@ -1,4 +1,6 @@
 # MinorJS Test Changelog
+## Version 10.0.1, June 25, 2021
+*chore: upgrade underscore to 1.12.1
 
 ## Version 10.0.0, April 5th, 2021
 
